@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com/',
+			name: 'Opalstack',
+			icon: 'server-crash',
+			link: 'https://opalstack.com',
 		},
 		{
 			id: '2',
