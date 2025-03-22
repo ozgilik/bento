@@ -239,6 +239,11 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
+  flex-direction: column;
+  text-decoration: navajowhite;
+  gap: 10px;
+  color: #2f2f2f;
+}
 }
 
 .buttonIcon {
@@ -276,6 +281,10 @@ body {
 }
 .button:hover svg {
   stroke: var(--sfg);
+}
+
+.button:hover span{
+  background-color: var(--accent);
 }
 
 .listsContainer {
