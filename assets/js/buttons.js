@@ -12,6 +12,7 @@ const generateFirstButtonsContainer = () => {
           class="card button button__${button.id}"
         >
           <i class="buttonIcon" icon-name="${button.icon}"></i>
+	  <span>${button.name}</span>
         </a>
     `;
 
