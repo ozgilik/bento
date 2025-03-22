@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Opalstack',
-			icon: 'server-crash',
-			link: 'https://opalstack.com',
-		},
-		{
-			id: '2',
 			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
 		{
+			id: '2',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
+		},
+		{
 			id: '3',
-			name: 'Gmail',
-			icon: 'mail',
-			link: 'https://gmail.com',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://gmail.com',
 		},
 		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Finance',
+			icon: 'badge-dollar-sign',
+			link: 'https://bigpara.hurriyet.com.tr/doviz/dolar/',
 		},
 	],
 
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Opalstack',
+					link: 'https://my.opalstack.com/signin/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Notion',
+					link: 'https://www.notion.com',
+				},
+				{
+					name: 'Photoshop',
+					link: 'https://www.photopea.com/',
 				},
 				{
 					name: 'Trello',
 					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
 				},
 			],
 		},
