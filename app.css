@@ -242,9 +242,9 @@ body {
   flex-direction: column;
   text-decoration: navajowhite;
   gap: 10px;
+  color: #fff;
 }
 .button span{
-  color: #fff;
   opacity: .2;
 }
 }
@@ -287,7 +287,7 @@ body {
 }
 
 .button:hover span{
-  color: #fff;
+  opacity: 1;
 }
 
 .listsContainer {
