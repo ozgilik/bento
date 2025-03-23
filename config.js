@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Finance',
-			icon: 'badge-dollar-sign',
-			link: 'https://bigpara.hurriyet.com.tr/doviz/dolar/',
+			name: 'Whatsapp',
+			icon: 'whatsapp',
+			link: 'https://web.whatsapp.com/',
 		},
 	],
 
