@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Whatsapp',
-			icon: 'whatsapp',
+			icon: 'message-circle',
 			link: 'https://web.whatsapp.com/',
 		},
 	],
