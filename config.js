@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Notion',
 			icon: 'notebook-pen',
-			link: 'https://notion.com/',
+			link: 'https://www.notion.so',
 		},
 		{
 			id: '3',
