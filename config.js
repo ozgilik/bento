@@ -87,6 +87,18 @@ const CONFIG = {
 			icon: 'message-circle',
 			link: 'https://web.whatsapp.com/',
 		},
+		{
+			id: '7',
+			name: 'Opalstack',
+			icon: 'server-crash',
+			link: 'https://my.opalstack.com',
+		},
+		{
+			id: '7',
+			name: 'Gemini',
+			icon: 'server-crash',
+			link: 'https://my.opalstack.com',
+		},
 	],
 
 	secondButtonsContainer: [
