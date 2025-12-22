@@ -21,7 +21,7 @@
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #57a0d9; /* Hover color */
+  --accent: #efefef; /* Hover color */
   --background: #f5f5f5; /* Background color */
   --cards: #efefef; /* Cards color */
 
@@ -35,7 +35,7 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #EB1A2E; /* Hover color */
+  --accent: #efefef; /* Hover color */
   --background: #000000; /* Background color */
   --cards: #050505; /* Cards color */
 
@@ -114,8 +114,7 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-0.2rem);
-  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
+  box-shadow: 0 0px 3px rgba(0, 0, 0, 0.35);
 }
 
 .timeBlock {
@@ -216,7 +215,7 @@ body {
 
 .linksBlockLeft {
   grid-row: 1 / span 2;
-  grid-column: 1 / span 2;
+  grid-column: 1 / span 3;
 }
 
 .linksBlockRight {
