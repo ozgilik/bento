@@ -90,14 +90,20 @@ const CONFIG = {
 		{
 			id: '7',
 			name: 'Opalstack',
-			icon: 'webhook',
+			icon: 'server',
 			link: 'https://my.opalstack.com',
 		},
 		{
-			id: '7',
+			id: '8',
 			name: 'Gemini',
-			icon: 'coffee',
-			link: 'https://my.opalstack.com',
+			icon: 'dessert',
+			link: 'https://gemini.google.com',
+		},
+		{
+			id: '9',
+			name: 'Cloudflare',
+			icon: 'cloudy',
+			link: 'https://dash.cloudflare.com/',
 		},
 	],
 
