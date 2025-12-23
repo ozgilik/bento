@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Kick',
-			icon: 'twitch',
-			link: 'https://kick.com',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '5',
