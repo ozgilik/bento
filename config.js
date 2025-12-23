@@ -105,6 +105,12 @@ const CONFIG = {
 			icon: 'cloudy',
 			link: 'https://dash.cloudflare.com/',
 		},
+		{
+			id: '10',
+			name: 'ChatGPT',
+			icon: 'bot-message-square',
+			link: 'https://chatgpt.com/',
+		},
 	],
 
 	secondButtonsContainer: [
