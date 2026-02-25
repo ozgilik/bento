@@ -35,13 +35,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #efefef; /* Hover color */
-  --background: #000000; /* Background color */
-  --cards: #050505; /* Cards color */
+  --accent: #1e210f0f; /* Hover color */
+  --background: #13140f; /* Background color */
+  --cards: #11120d; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #ffcdd1; /* Secondary Foreground color */
+  --fg: #848484; /* Foreground color */
+  --sfg: #bed061; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
@@ -287,6 +287,7 @@ body {
 
 .button:hover span{
   opacity: 1;
+  color: ##bed061 !important;
 }
 
 .listsContainer {
