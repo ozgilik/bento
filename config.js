@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Github',
-			icon: 'github',
+			icon: 'git-branch-plus',
 			link: 'https://github.com/',
 		},
 		{
