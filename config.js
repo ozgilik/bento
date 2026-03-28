@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Twitter',
-			icon: 'twitter',
+			icon: 'bird',
 			link: 'https://twitter.com/',
 		},
 		{
@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Youtube',
-			icon: 'youtube',
+			icon: 'tv-minimal-play',
 			link: 'https://youtube.com/',
 		},
 		{
